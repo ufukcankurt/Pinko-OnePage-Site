@@ -22,6 +22,11 @@
 <br> 
 <br>
 
+## Some features of project :
+
+<br>
+<br>
+
 
 ![pinko-preview (1)](https://user-images.githubusercontent.com/46025001/93078872-e58bef00-f693-11ea-9775-5f3ed07dfa0f.gif)
 
